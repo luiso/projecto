@@ -8,4 +8,5 @@ div {
     align-items: center;
     flex-direction: column;
     height: 100vh;
+    background: linear-gradient(45deg, blue, white);
 }
